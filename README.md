@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9575cd&height=200&section=header&text=FRANCYELLEN%20P&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9575cd&height=200&section=header&text=FRANCYELLEN%20PIMENTA&fontSize=40&animation=fadeIn" width="100%"/>
   
   <p><i>"A lógica levará você de A a B. A imaginação levará você a qualquer lugar."</i></p>
 

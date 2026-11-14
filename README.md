@@ -26,7 +26,7 @@
 ## 🛠️ Tech Arsenal (Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nodejs,docker,bash,linux,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,c,r,java,js,ts,html,css,react,nodejs,postgres,sqlite,docker,bash,linux,kali,git,github,vscode,figma,postman&perline=7" />
 </div>
 
 ---

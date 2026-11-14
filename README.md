@@ -2,13 +2,13 @@
   <!-- Banner do topo (gerado automaticamente) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,24&height=200&section=header&text=Seu%20Nome%20Aqui&fontSize=40&animation=fadeIn" width="100%"/>
   
-  <p><i>"Escreva uma frase legal ou citação aqui"</i></p>
+  <p><i>"A lógica levará você de A a B. A imaginação levara você a qualquer lugar"</i></p>
 
   <!-- Redes Sociais -->
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:olacy.studio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ☕ por Seu Nome</sub>
+  <sub>Desenvolvido com ☕ por Francyellen P.</sub>
 </div>

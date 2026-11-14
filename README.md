@@ -18,6 +18,7 @@
 - 🎓 **Estudante de Defesa Cibernética** com foco em análise de vulnerabilidades.
 - 🐍 Especialista em construção de ferramentas e automação com **Python**.
 - 🛠️ No momento, aprofundando em **Segurança de Aplicações e Pentesting**.
+- ☕ **Side Quests:** Nas horas vagas, gasto meu tempo "brincando" com **Java, JavaScript e HTML** — afinal, alguém precisa manter o DOM em ordem e a JVM rodando enquanto o café não acaba.
 - 🔐 Pronomes: **Ela/Dela** (She/Her)
 
 ---
@@ -25,7 +26,7 @@
 ## 🛠️ Tech Arsenal (Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,bash,linux,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,ts,react,nodejs,docker,bash,linux,git,vscode,figma" />
 </div>
 
 ---

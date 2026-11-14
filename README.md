@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner do topo (gerado automaticamente) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,24&height=200&section=header&text=francyellenn&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,24&height=200&section=header&text=FRANCYELLEN%20P&fontSize=40&animation=fadeIn" width="100%"/>
   
   <p><i>"A lógica levará você de A a B. A imaginação levara você a qualquer lugar"</i></p>
 
@@ -34,8 +34,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francyellenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francyellenn&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FRANCYELLENN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCYELLENN&layout=compact&theme=tokyonight&hide=html,css"/>
 </div>
 
 ---

@@ -23,10 +23,22 @@
 
 ---
 
-## 🛠️ Tech Arsenal (Stack)
+## 🛠️ Tech Arsenal
+
+### 🛡️ Main Stack & Cyber Defense (Foco Principal)
+> *O arsenal do dia a dia: automação, análise de vulnerabilidades, exploração de sistemas e banco de dados.*
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,r,java,js,ts,html,css,react,nodejs,postgres,sqlite,docker,bash,linux,kali,git,github,vscode,figma,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,linux,kali,git,docker,postgres,sqlite,github,vscode,bash,c" />
+</div>
+
+<br>
+
+### ☕ Side Quests & Dev Web (Nas Horas Vagas)
+> *Para manter a sanidade: criar interfaces, brincar com API's e testar ideias.*
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,r,figma,postman" />
 </div>
 
 ---

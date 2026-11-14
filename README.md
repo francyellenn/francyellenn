@@ -1,45 +1,54 @@
 <div align="center">
-  <!-- Banner do topo (gerado automaticamente) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,24&height=200&section=header&text=FRANCYELLEN%20P&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9575cd&height=200&section=header&text=FRANCYELLEN%20P&fontSize=40&animation=fadeIn" width="100%"/>
   
-  <p><i>"A lógica levará você de A a B. A imaginação levara você a qualquer lugar"</i></p>
+  <p><i>"A lógica levará você de A a B. A imaginação levará você a qualquer lugar."</i></p>
 
-  <!-- Redes Sociais -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/francyellen-pimenta-83126b166/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:olacy.studio@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
 
-## Sobre Mim
-- Pronomes: **ELA/DELA**
-- Aprendendo **TypeScript, Docker e Backend**
-- Me pergunte sobre **JavaScript, HTML, CSS, Phyton**
-- Fun fact: **Adoro café e pixel art**
+## 🛡️ Mission: Cyber Defense & Research
+
+- 🎓 **Estudante de Defesa Cibernética** com foco em análise de vulnerabilidades.
+- 🐍 Especialista em construção de ferramentas e automação com **Python**.
+- 🛠️ No momento, aprofundando em **Segurança de Aplicações e Pentesting**.
+- 🔐 Pronomes: **Ela/Dela** (She/Her)
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Arsenal (Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,docker,bash,linux,git,vscode,figma" />
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 System Analysis (Stats)
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FRANCYELLENN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCYELLENN&layout=compact&theme=tokyonight&hide=html,css"/>
+  <!-- GitHub Stats Card -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=francyellenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Most Used Languages Card -->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francyellenn&layout=compact&theme=tokyonight&hide=html,css"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francyellenn&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ☕ por Francyellen P.</sub>
+  <sub>Desenvolvido com 💜 e ☕ por Francyellen P.</sub>
 </div>
